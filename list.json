@@ -1,0 +1,33 @@
+{
+  "name": "TAS20 Token List",
+  "timestamp": "2025-11-24T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://token.thoreum.org/img/logo.png",
+  "keywords": [
+    "ThoreumDEX",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped THR",
+      "address": "0x868a9ff7525887a17bced91f1ebab84b5f0f7e8a",
+      "symbol": "WTHR",
+      "decimals": 18,
+      "chainId": 357,
+      "logoURI": "https://token.thoreum.org/img/0x868a9ff7525887a17bced91f1ebab84b5f0f7e8a.png"
+    },
+    {
+      "name": "Tether USDT",
+      "address": "0x933b6e18ffc8b08d919a67b66b3fa1f7cb1ccf0a",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 357,
+      "logoURI": "https://token.thoreum.org/img/0x933b6e18ffc8b08d919a67b66b3fa1f7cb1ccf0a.png"
+    }
+  ]
+}
